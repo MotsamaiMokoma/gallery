@@ -1,0 +1,21 @@
+
+/* ImageGallery.css */
+
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+/* Center the thumbnail grid */
+.grid-pane {
+    -fx-alignment: center;
+}
+
+/* Style for the thumbnail images */
+.thumbnail-image-view {
+    -fx-cursor: hand;
+}
+
+/* Center the full-sized image */
+.image-view {
+    -fx-alignment: center;
+}
